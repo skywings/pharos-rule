@@ -983,6 +983,9 @@ DOMAIN-SUFFIX,rjgw.theta.sogou.com,REJECT
 DOMAIN-SUFFIX,wangmeng.sogou.com,REJECT
 DOMAIN-SUFFIX,web.sogou.com,REJECT
 
+#soundcloud
+DOMAIN-SUFFIX,soundcloud.com,PROXY
+
 // Teleplus
 DOMAIN-SUFFIX,guangzhuiyuan.com,REJECT
 
