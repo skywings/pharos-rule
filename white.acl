@@ -1,4 +1,3 @@
-
 [Rule]
 #Apple
 
@@ -15,6 +14,13 @@ DOMAIN-SUFFIX,api.twitch.tv,PROXY
 DOMAIN-SUFFIX,hls.ttvnw.net,PROXY
 DOMAIN-SUFFIX,spade.twitch.tv,PROXY
 
+# Bilibili
+USER-AGENT,*bili*,PROXY
+PROCESS-NAME,com.bilibili.app.in,PROXY
+PROCESS-NAME,tv.danmaku.bili,PROXY
+DOMAIN-KEYWORD,bilibili,PROXY
+DOMAIN-SUFFIX,acgvideo.com,PROXY
+DOMAIN-SUFFIX,hdslb.com,PROXY
 
 PROCESS-NAME,storedownloadd,DIRECT // Mac App Store
 
@@ -6137,8 +6143,7 @@ DOMAIN-SUFFIX,bet365.com,DIRECT
 DOMAIN-SUFFIX,bdimg.com,DIRECT
 DOMAIN-SUFFIX,bdstatic.com,DIRECT
 DOMAIN-SUFFIX,beatsbydre.com,DIRECT
-DOMAIN-SUFFIX,bilibili.cn,DIRECT
-DOMAIN-SUFFIX,bilibili.com,DIRECT
+
 DOMAIN-SUFFIX,caiyunapp.com,DIRECT
 DOMAIN-SUFFIX,ccgslb.com,DIRECT
 DOMAIN-SUFFIX,ccgslb.net,DIRECT
