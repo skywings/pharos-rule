@@ -57,10 +57,10 @@ IP-CIDR,119.176.0.0/12,DIRECT,no-resolve
 DOMAIN-KEYWORD,wechat,DIRECT
 DOMAIN-SUFFIX,weixin.qq.com,DIRECT
 DOMAIN-SUFFIX,qiniu.com,DIRECT
-URL,szextshort.weixin.qq.com,DIRECT
-URL,szminorshort.weixin.qq.com,DIRECT
-URL,szshort.weixin.qq.com,DIRECT
-URL,dns.weixin.qq.com,DIRECT
+DOMAIN-SUFFIX,szextshort.weixin.qq.com,DIRECT
+DOMAIN-SUFFIX,szminorshort.weixin.qq.com,DIRECT
+DOMAIN-SUFFIX,szshort.weixin.qq.com,DIRECT
+DOMAIN-SUFFIX,dns.weixin.qq.com,DIRECT
 
 
 PROCESS-NAME,storedownloadd,DIRECT // Mac App Store
