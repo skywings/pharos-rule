@@ -55,6 +55,7 @@ IP-CIDR,119.176.0.0/12,DIRECT,no-resolve
 
 #wechat
 DOMAIN-KEYWORD,wechat,DIRECT
+DOMAIN-SUFFIX,weixin.qq.com,DIRECT
 DOMAIN-SUFFIX,qiniu.com,DIRECT
 URL,szextshort.weixin.qq.com,DIRECT
 URL,szminorshort.weixin.qq.com,DIRECT
