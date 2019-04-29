@@ -23,6 +23,11 @@ DOMAIN-SUFFIX,qiumibao.com,DIRECT
 #hupu
 DOMAIN-SUFFIX,hupo.com,DIRECT
 
+#Spotify 
+DOMAIN-SUFFIX,app-measurement.com,PROXY
+DOMAIN-SUFFIX,app.adjust.com,PROXY
+
+
 #soul
 URL,157.255.155.187:80,DIRECT
 URL,157.255.155.185:80,DIRECT
